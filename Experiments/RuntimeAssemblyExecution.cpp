@@ -1,7 +1,3 @@
-/*  Nick Sweeting 2014/02/13
-    MIT License
-*/
-
 #include <stdlib.h>
 #include <cstdio>
 #include <ctype.h>      // isdigit (parsing for tokens/ops)

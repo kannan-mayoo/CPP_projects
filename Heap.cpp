@@ -1,11 +1,3 @@
-/*  Nick Sweeting 2014/02/13
-    Heap
-    MIT License
-    g++ Heap.cpp -o main; and ./main
-
-    A heap implemented as a flat array using index math to access elements.
-*/
-
 #include <stdlib.h>
 #include <ctype.h>      // isdigit (parsing for tokens/ops)
 #include <string>       // duh

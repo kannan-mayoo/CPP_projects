@@ -1,11 +1,3 @@
-/*  Nick Sweeting 2013/09/09
-    Tic Tac Toe in C++ (non OOP)
-    MIT Liscense
-    g++ TicTacToe.cpp -o main && ./main
-
-    The TicTacToe game.  Human vs (buggy) minimax-based AI.
-*/
-
 #include <stdlib.h>
 #include <iostream>
 using namespace std;

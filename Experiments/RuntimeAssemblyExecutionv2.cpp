@@ -1,8 +1,3 @@
-/*  Nick Sweeting 2014/09/26
-    Runtime function copying and execution
-    MIT License
-*/
-
 #include <stdlib.h>     // duh
 #include <iostream>     // cout
 #include <sys/mman.h>   // memcpy, mprotect
